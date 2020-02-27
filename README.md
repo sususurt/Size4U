@@ -4,6 +4,9 @@ Group Member: Ruitong Su, Yiwei Chang, Yanwenjing Qu, Tongfei Sun,  James Maskre
 
 ### SDE
 - Eclipse IDE 2019‑12
-- swing
+- swing(windowbuilder)
 - jdbc
 - mySQL
+
+### 2/27/2020
+- Implemented a simple login window.
